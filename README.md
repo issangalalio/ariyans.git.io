@@ -1,2 +1,2 @@
-# ariyans.git.io
-ariayan
+# ariyanstechies.github.io
+ariyans
